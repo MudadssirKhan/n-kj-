@@ -1,0 +1,105 @@
+html {
+    background-color: black;
+}
+.poster{
+    width: 50%;
+  margin-left: 26%;
+  margin-top: 100px;
+  color: yellow;
+  font-family: "Libre Baskerville", serif;
+  text-align: center;
+  animation: slidein 2s ease-out; 
+}
+.name{text-transform: uppercase;
+  font-size:4rem
+}
+.my{
+  background-color: #131212;
+  color: antiquewhite;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 3rem;
+}
+.white{
+  color: antiquewhite;
+  font-size: 20px;
+}
+#images{
+    border: 5px solid;
+    width: 350px;
+    margin: 60px;
+ 
+}
+.education{
+  color: yellow;
+  text-align: left;
+  margin-left: 30px;
+}
+#first {
+  padding: 30px;
+  background-color: #131212;
+  height: 300px;
+  width: 700px;
+  
+  margin: 80px;
+  box-shadow: 1px 1px 50px 6px yellow;
+  position: relative;
+  left: 8px;
+    border-radius: 50px; 
+    padding: 20px;
+}
+#second {
+  padding: 30px;
+  background-color: #131212;
+  height: 300px;
+  width: 700px;
+  
+  margin: 80px;
+  box-shadow: 1px 1px 50px 6px yellow;
+  position: relative;
+  left: 800px;
+    border-radius: 50px; 
+    padding: 20px;
+}
+#third {
+  padding: 30px;
+  background-color: #131212;
+  height: 350px;
+  width: 700px;
+  margin: 80px;
+  box-shadow: 1px 1px 50px 6px yellow;
+  position: relative;
+  left: 8px;
+    border-radius: 50px; 
+    padding: 20px;
+}
+.image{
+  position: absolute;
+  left: 513px;
+  height: 500px;
+  width: 62%;
+  padding-bottom: 200px;
+  padding-top: 200px;
+}
+.button{
+  background-color: yellow;
+  width: 600px;
+  height: 30px;
+  text-align: center;
+  font-family: fantasy;
+  font-size: 20px;
+  border-radius: 10px;
+  margin-left: 400px;
+  margin-top: 200px;
+}
+#name{
+  color: yellow;
+  margin-left: 435px;
+  font-size: 70px;
+  margin-top: -300px;
+}
+.color{
+  color: white;
+  margin-left: 301px;
+  font-size: 60px;
+}
